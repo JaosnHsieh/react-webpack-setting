@@ -6,7 +6,7 @@ import Layout from "./Layout";
 const Home = () => {
   return (
     <Layout>
-      <p>Hel 123 456 789 </p>
+      <p>HH</p>
       <p>
         <Link to="/dynamic">Navigate to Dynamic Page</Link>
       </p>
